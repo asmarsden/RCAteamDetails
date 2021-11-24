@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Meet The Team
 
-You can use the [editor on GitHub](https://github.com/asmarsden/RCAteamDetails/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Aislinn Marsden is majoring in computer science with a minor in psychology at the University of Alabama, due to graduate in December 2021. <a href="https://www.linkedin.com/in/a-marsden/">LinkedIn</a>
+* Sam Williams is attending The University of Alabama majoring in computer science with a minor in mathematics. He is also enrolled as a graduate student and has begun working on a Masters of Businesses Administration (MBA). <a href="https://www.linkedin.com/in/samuel-j-williams/">LinkedIn</a>
+* Griffin Tucker is a Computer Science student at the University of Alabama in his (hopefully) last semester. He comes from a sports background, and is currently the President of the UA Men's Soccer Club after being a member for 4 years. 
+* Noah "Evan" Strong is a Computer Science Major, Math Minor, with a concentration in cybersecurity. He's participated in the Million Dollar Band for 4 years and is a candidate for the SMART Scholarship program. Once receiving his degree from The University of Alabama, he will begin working for USASMDC at Redstone Arsenal, Al.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asmarsden/RCAteamDetails/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
